@@ -6,3 +6,4 @@ Google
 venv/Lib
 venv/Scripts
 venv/*.*
+venv/Include/__pycache__
