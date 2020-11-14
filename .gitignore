@@ -1,0 +1,8 @@
+users.json
+Google
+.idea
+*.exe
+*.log
+venv/Lib
+venv/Scripts
+venv/*.*
